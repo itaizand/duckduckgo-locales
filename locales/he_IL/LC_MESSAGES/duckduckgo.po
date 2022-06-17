@@ -40,7 +40,7 @@ msgstr "%s מיליארד חיפושים"
 #. Used to indicate the season year, e.g. '2020 Season'
 msgctxt "Sports module"
 msgid "%s Season"
-msgstr ""
+msgstr "עונת %s"
 
 msgid "%s blocked by safe search."
 msgstr "%s נחסם על ידי החיפוש הבטוח"
@@ -161,7 +161,7 @@ msgstr "1ש"
 #. Short indicator for the first quarter of an ongoing game, used with the time e.g. 1st • 1:38
 msgctxt "Sports module"
 msgid "1st"
-msgstr ""
+msgstr "ראשון"
 
 msgctxt "install-extension"
 msgid "2. Double-click %sduckduckgo.safariextz%s"
@@ -170,17 +170,17 @@ msgstr "2. לחץ פעמיים על %sduckduckgo.safariextz%s "
 #. Short indicator for the second quarter of an ongoing game, used with the time e.g. 2nd • 4:26
 msgctxt "Sports module"
 msgid "2nd"
-msgstr ""
+msgstr "שני"
 
 #. Short indicator for the third quarter of an ongoing game, used with the time e.g. 3rd • 3:51
 msgctxt "Sports module"
 msgid "3rd"
-msgstr ""
+msgstr "שלישי"
 
 #. Short indicator for the fourth quarter of an ongoing game, used with the time e.g. 4th • 8:37
 msgctxt "Sports module"
 msgid "4th"
-msgstr ""
+msgstr "רביעי"
 
 #. The highest price over the previous 52 weeks
 msgctxt "Stocks module"
